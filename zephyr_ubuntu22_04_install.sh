@@ -12,7 +12,7 @@ set -e
 # 配置区（按需修改）
 # ------------------------------------------------------------
 # 网络代理：下载慢/失败时填写，格式 "http://IP:端口"；不需要则留空
-PROXY="http://127.0.0.1:12000"
+PROXY="http://127.0.0.1:7890"
 
 # Zephyr manifest 仓库地址
 MANIFEST_URL="https://github.com/derskop/zephyr.git"
